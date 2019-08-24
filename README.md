@@ -1,8 +1,8 @@
  ### Link on gh-pages: https://AndreyDmitriew.github.io/Quiz/
  
- http://prntscr.com/ox3hgo
+ https://github.com/AndreyDmitriew/Quiz/blob/master/markdownImg/FirstImg.jpg
  
- http://prntscr.com/ox3ht3
+ https://github.com/AndreyDmitriew/Quiz/blob/master/markdownImg/SecondImg.jpg
  
  
  
