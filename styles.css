@@ -167,7 +167,7 @@ body{
 /* media for fail/win screen 870px */
 @media screen and (max-width: 870px) {
     .modalwin { 
-        height: 300px;  
+        height: 400px;  
         width: 500px;
     }
     .winnerPic{
@@ -184,7 +184,7 @@ body{
   /* media for fail/win screen 570px */
 @media screen and (max-width: 570px) {
     .modalwin { 
-        height: 400px;  
+        height: 518px;  
         width: 300px;
     }
     .winnerPic{
